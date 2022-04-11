@@ -1,0 +1,90 @@
+/* ekorbi */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.full{
+  background-color: darkgrey;
+  height: 100vh;
+}
+.appi{
+  width: 350px;
+  height: 660px;
+  background-color: rgba(250, 255, 255,0.8);
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+.img--header{
+  width: 350px;
+  height: 205px;
+}
+.close1{
+  color: white;
+  font-size: 20px;
+  display: inline;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 4px;
+}
+.names{
+  text-align: center;
+  font-size: 19px;
+  color:black;
+}
+.prof{
+  margin-top:3px;
+  text-align: center;
+  color: #a2834d;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  gap: 30px;
+}
+.web{
+  margin-top: 2px;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 14px;
+}
+.email--btn{
+  background-color:rgba(0,0,0,0.5);
+  width: 100px;
+  padding: 4px;
+  font-size: 17px;
+  border-radius: 6px;
+}
+.link--btn{
+  width: 100px;
+  padding: 4px;
+  font-size: 17px;
+  background-color: cornflowerblue;
+  border-radius: 6px;
+}
+.about{
+  margin-left: 10px;
+}
+.main--head{
+  font-size: 16px;
+  font-style: oblique;
+}
+.about p{
+  margin-top: 7px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  width: 340px;
+}
+.close{
+  color: white;
+  font-size: 20px;
+  display: inline;
+  font-weight: bold;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 4px;
+}
+

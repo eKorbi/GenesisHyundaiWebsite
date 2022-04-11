@@ -1,0 +1,96 @@
+/* ekorbi */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.admin{
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.40)),url('digital.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.admin h1{
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+.admin p{
+    text-align: center;
+    margin-top: 7px;
+    font-weight: bold;
+    color: white;
+}
+
+.admin .admin-main{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+.admin form{
+    width: 500px;
+    background-color:rgba(170, 141, 83, 0.25);
+}
+.logout{
+    text-decoration: underline;
+    display: flex;
+    justify-content:flex-end;
+    cursor: pointer;
+    font-size: 17px;
+}
+.link{
+    color: white;
+}
+.logout:hover{
+    color:darkgoldenrod;
+}
+.admin .form-container{
+    width: 540px;
+    height: 580px;
+    background-color: transparent;
+    margin: 20px auto;
+    padding: 20px;   
+}
+.admin input{
+    width:350px;
+    border-radius: 2px;
+}
+.admin label{
+    color: white;
+}
+.admin .form-container .btn{
+    margin-top: 5px;
+    width: 50%;   
+    background-color: green;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 15px;
+}
+
+.admin .view-container{
+    width: 600px;    
+    background-color: #e4e4e4;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+th{
+    padding: 10px;
+    font-size: 15px;
+    text-transform: uppercase;
+    width: 250px;
+    text-decoration: overline;
+}
+td{
+    width: 250px;
+    padding-left: 32px;
+    padding-right: 10px;
+}
+
+.info{
+    background-color: aqua;
+}
