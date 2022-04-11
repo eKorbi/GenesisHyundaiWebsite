@@ -45,7 +45,8 @@ Subscribe Component:
 EmailJS is used to send an email from the user to the admin in the moment when the user subscribes to the website.
 
 Email Js template
-![email_js](https://user-images.githubusercontent.com/96446933/162811416-4a091293-efcd-4d4f-97e6-738c9bfc21be.png)
+
+![email_js](https://user-images.githubusercontent.com/96446933/162812316-d7a78f00-4e15-4c67-8816-e99766d0bb38.png)
 
 
 Email verification | the email sent to the admin address from the user.
