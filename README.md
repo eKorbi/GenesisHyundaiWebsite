@@ -44,9 +44,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 Subscribe Component:
 EmailJS is used to send an email from the user to the admin in the moment when the user subscribes to the website.
 
-
+Email Js template
 ![email_js](https://user-images.githubusercontent.com/96446933/162811416-4a091293-efcd-4d4f-97e6-738c9bfc21be.png)
-
+Email verification | the email sent to the admin address from the user
 ![gmail_verification](https://user-images.githubusercontent.com/96446933/162811430-0cc9a11d-d725-4f97-8846-b2510fba2072.png)
 
 -----------------------------------------------------------------------------------
