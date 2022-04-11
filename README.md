@@ -53,5 +53,5 @@ EmailJS is used to send an email from the user to the admin in the moment when t
 ![gmail_verification](https://user-images.githubusercontent.com/96446933/162811430-0cc9a11d-d725-4f97-8846-b2510fba2072.png)
 
 -----------------------------------------------------------------------------------
-Login Component
+### Login Component
 Login Credentials | email: ekorbi.admin@gmail.com | password: admin
